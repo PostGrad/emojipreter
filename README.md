@@ -1,11 +1,5 @@
-# emoji-interpreter
+# emojipreter
 
-so have you also felt this confusion while decoding emojis people sent? man! what does this emoji mean now? 
+Project Link - https://6it012.csb.app/
 
-i faced similar confusion, so i have made this app ([emoji-interpreter](https://3tq10.csb.app/)) which interprets the meaning of an emoji & tells you what that particular emoji means!
-
-this project was a part of [neogcamp's level-zero](https://www.youtube.com/playlist?list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA).
-
-Project Link - https://3tq10.csb.app/
-
-Created with CodeSandbox - https://codesandbox.io/s/github/horsemaker/emoji-interpreter
+Created with CodeSandbox - https://codesandbox.io/s/dry-silence-6it012
